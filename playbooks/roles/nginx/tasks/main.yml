@@ -22,7 +22,7 @@
 
 - name: Install Nginx
   apt:
-    package: nginx
+    package: nginx-full
 
 - name: Update Nginx configuration
   copy:
