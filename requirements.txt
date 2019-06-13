@@ -33,4 +33,5 @@ pycurl==7.43.0.1
 linode-python
 
 # Rackspace
-pyrax
+pyrax==1.9.5
+keyring==18.0.1
